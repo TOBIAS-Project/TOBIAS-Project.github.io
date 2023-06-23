@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0d7f25a3.css",
+    "main.js": "/static/js/main.9a1dcf6d.js",
+    "static/media/TOBIAS JPL Presentation.pdf": "/static/media/TOBIAS JPL Presentation.ee39a86cc36340196234.pdf",
+    "static/media/poster.pdf": "/static/media/poster.f4fabf84bd292d518959.pdf",
+    "static/media/windTunnel.JPG": "/static/media/windTunnel.e010148cc07d97e69a0e.JPG",
+    "static/media/windblaster2.JPG": "/static/media/windblaster2.a98edb39ce5f42e9983d.JPG",
+    "static/media/Figure4.jpg": "/static/media/Figure4.af3ca4ae84faab2ecbb5.jpg",
+    "static/media/NASAJPL.jpg": "/static/media/NASAJPL.18e03de0fd78360e1130.jpg",
+    "static/media/designMethodology.png": "/static/media/designMethodology.cf56c60e4df4e71634aa.png",
+    "static/media/Figure1.png": "/static/media/Figure1.eb3e051874b721f21673.png",
+    "static/media/Proposal.pdf": "/static/media/Proposal.53347c20c1b68b9bba6c.pdf",
+    "static/media/Figure6.png": "/static/media/Figure6.1630eaa796b13272b5e5.png",
+    "static/media/prototypeIII.jpg": "/static/media/prototypeIII.0385af38820d53af11c7.jpg",
+    "static/media/Logo_BlackSubText.png": "/static/media/Logo_BlackSubText.18565bed818ac3d3af1b.png",
+    "static/media/Figure5.png": "/static/media/Figure5.6ae96542b15c16aaf339.png",
+    "static/media/graph1.png": "/static/media/graph1.c6b444de91ea696d7214.png",
+    "static/media/graph2.png": "/static/media/graph2.ccf8640530e96febe9e6.png",
+    "static/media/Award.png": "/static/media/Award.738541edb3af7ac0599d.png",
+    "static/media/scTobias.png": "/static/media/scTobias.1dd659dd81794fc87547.png",
+    "static/media/Figure9.jpg": "/static/media/Figure9.1637fc9788f9942e3a63.jpg",
+    "static/media/Figure3.png": "/static/media/Figure3.7c18f025735e5b99713c.png",
+    "static/media/Figure101.jpg": "/static/media/Figure101.232aa16b03e0efcc7323.jpg",
+    "static/media/Figure8.jpg": "/static/media/Figure8.e3dca0e696767459cb94.jpg",
+    "static/media/Figure7.jpg": "/static/media/Figure7.3f137917f583f3f02bab.jpg",
+    "index.html": "/index.html",
+    "main.0d7f25a3.css.map": "/static/css/main.0d7f25a3.css.map",
+    "main.9a1dcf6d.js.map": "/static/js/main.9a1dcf6d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0d7f25a3.css",
+    "static/js/main.9a1dcf6d.js"
+  ]
+}
