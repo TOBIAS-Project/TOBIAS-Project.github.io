@@ -1,6 +1,9 @@
 import React from 'react' 
 import '../CSS/EndBanner.css' 
-var version = '1' 
+var version = '1'   
+/* To deploy run npm run deploy on 
+\TOBIAS-Project.github.io> in terminal, updating 
+the version number helps verify successful deployment*/ 
 
 function EndBanner() {
   return (
