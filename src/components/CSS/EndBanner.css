@@ -6,4 +6,11 @@
 .redSpace{ 
     background-color: #8C1515; 
     height:80px;
-} 
+}  
+
+.versionPlace { 
+    float: right; 
+    text-indent: 10px; 
+    margin-right: 10px; 
+    color: white
+}

@@ -23,7 +23,7 @@ function Home() {
           <Team/> 
           <Contact/> 
         </Container> 
-        <EndBanner/>
+        <EndBanner/> 
     </div>
   )
 }
