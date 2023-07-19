@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.0d7f25a3.css",
-    "main.js": "/static/js/main.9a1dcf6d.js",
+    "main.css": "/static/css/main.0ba96053.css",
+    "main.js": "/static/js/main.c5936972.js",
     "static/media/TOBIAS JPL Presentation.pdf": "/static/media/TOBIAS JPL Presentation.ee39a86cc36340196234.pdf",
     "static/media/poster.pdf": "/static/media/poster.f4fabf84bd292d518959.pdf",
     "static/media/windTunnel.JPG": "/static/media/windTunnel.e010148cc07d97e69a0e.JPG",
@@ -25,11 +25,11 @@
     "static/media/Figure8.jpg": "/static/media/Figure8.e3dca0e696767459cb94.jpg",
     "static/media/Figure7.jpg": "/static/media/Figure7.3f137917f583f3f02bab.jpg",
     "index.html": "/index.html",
-    "main.0d7f25a3.css.map": "/static/css/main.0d7f25a3.css.map",
-    "main.9a1dcf6d.js.map": "/static/js/main.9a1dcf6d.js.map"
+    "main.0ba96053.css.map": "/static/css/main.0ba96053.css.map",
+    "main.c5936972.js.map": "/static/js/main.c5936972.js.map"
   },
   "entrypoints": [
-    "static/css/main.0d7f25a3.css",
-    "static/js/main.9a1dcf6d.js"
+    "static/css/main.0ba96053.css",
+    "static/js/main.c5936972.js"
   ]
 }
